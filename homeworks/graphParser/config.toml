@@ -1,0 +1,6 @@
+[paths]
+graphviz = "/opt/homebrew/bin/dot"
+package = "./pom.xml"      # Путь к основному pom.xml
+output = "output/graph.png"           # Путь для сохранения изображения графа
+
+max_depth = 2                         # Максимальная глубина анализа зависимостей
