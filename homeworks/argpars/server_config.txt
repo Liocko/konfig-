@@ -1,0 +1,7 @@
+global port = 8080;
+global host = @"localhost";
+
+{
+    document_root = @"/var/www/html"
+    max_clients = 100
+}

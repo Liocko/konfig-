@@ -1,0 +1,4 @@
+port: 8080
+host: "localhost"
+document_root: "/var/www/html"
+max_clients: 100
